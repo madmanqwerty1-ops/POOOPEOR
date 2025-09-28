@@ -1,0 +1,44 @@
+{
+    "players": {
+        "Matt": {
+            "elo": 984,
+            "wins": 0,
+            "losses": 1
+        },
+        "Steven": {
+            "elo": 1016,
+            "wins": 1,
+            "losses": 0
+        },
+        "Tita": {
+            "elo": 984,
+            "wins": 0,
+            "losses": 1
+        },
+        "Joshua": {
+            "elo": 1016,
+            "wins": 1,
+            "losses": 0
+        }
+    },
+    "matches": [
+        {
+            "player1": "Steven",
+            "player2": "Tita",
+            "score1": 21,
+            "score2": 12,
+            "winner": "Steven",
+            "elo_change1": 16,
+            "elo_change2": -16
+        },
+        {
+            "player1": "Joshua",
+            "player2": "Matt",
+            "score1": 21,
+            "score2": 14,
+            "winner": "Joshua",
+            "elo_change1": 16,
+            "elo_change2": -16
+        }
+    ]
+}
